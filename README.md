@@ -1,2 +1,2 @@
 # Avalanche Prediction
-Objective: predicting avalanche danger ratings with weather data.
+Objective: Predicting avalanche danger ratings with weather data.

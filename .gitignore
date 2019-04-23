@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 
-/data/temp_prec_images
+/data/temp_prec_images/*
+!/data/temp_prec_images/Below Treeline Template
+!/data/temp_prec_images/Treeline Template
+!/data/temp_prec_images/Alpine Template
+
+/models/*.h5
